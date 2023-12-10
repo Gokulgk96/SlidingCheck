@@ -120,6 +120,7 @@ class ViewController: UIViewController {
                self.SliderLabel.isHidden = false
            }
 
+        
            // Adding action buttons to the alert controller
            alertController.addAction(okAction)
            alertController.addAction(cancelAction)
